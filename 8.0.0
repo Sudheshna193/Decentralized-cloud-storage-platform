@@ -1,0 +1,58 @@
+Collecting requests==2.31.0
+  Using cached requests-2.31.0-py3-none-any.whl.metadata (4.6 kB)
+Collecting numpy
+  Using cached numpy-2.2.3-cp311-cp311-win_amd64.whl.metadata (60 kB)
+Collecting click
+  Using cached click-8.1.8-py3-none-any.whl.metadata (2.3 kB)
+Collecting charset-normalizer<4,>=2 (from requests==2.31.0)
+  Downloading charset_normalizer-3.4.1-cp311-cp311-win_amd64.whl.metadata (36 kB)
+Collecting idna<4,>=2.5 (from requests==2.31.0)
+  Downloading idna-3.10-py3-none-any.whl.metadata (10 kB)
+Collecting urllib3<3,>=1.21.1 (from requests==2.31.0)
+  Downloading urllib3-2.3.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting certifi>=2017.4.17 (from requests==2.31.0)
+  Downloading certifi-2025.1.31-py3-none-any.whl.metadata (2.5 kB)
+Collecting colorama (from click)
+  Using cached colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Using cached requests-2.31.0-py3-none-any.whl (62 kB)
+Using cached numpy-2.2.3-cp311-cp311-win_amd64.whl (12.9 MB)
+Using cached click-8.1.8-py3-none-any.whl (98 kB)
+Downloading certifi-2025.1.31-py3-none-any.whl (166 kB)
+Downloading charset_normalizer-3.4.1-cp311-cp311-win_amd64.whl (102 kB)
+Downloading idna-3.10-py3-none-any.whl (70 kB)
+Downloading urllib3-2.3.0-py3-none-any.whl (128 kB)
+Using cached colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Installing collected packages: urllib3, numpy, idna, colorama, charset-normalizer, certifi, requests, click
+  Attempting uninstall: urllib3
+    Found existing installation: urllib3 1.26.20
+    Uninstalling urllib3-1.26.20:
+      Successfully uninstalled urllib3-1.26.20
+  Attempting uninstall: numpy
+    Found existing installation: numpy 1.23.5
+    Uninstalling numpy-1.23.5:
+      Successfully uninstalled numpy-1.23.5
+  Attempting uninstall: idna
+    Found existing installation: idna 3.7
+    Uninstalling idna-3.7:
+      Successfully uninstalled idna-3.7
+  Attempting uninstall: colorama
+    Found existing installation: colorama 0.4.6
+    Uninstalling colorama-0.4.6:
+      Successfully uninstalled colorama-0.4.6
+  Attempting uninstall: charset-normalizer
+    Found existing installation: charset-normalizer 2.1.1
+    Uninstalling charset-normalizer-2.1.1:
+      Successfully uninstalled charset-normalizer-2.1.1
+  Attempting uninstall: certifi
+    Found existing installation: certifi 2024.2.2
+    Uninstalling certifi-2024.2.2:
+      Successfully uninstalled certifi-2024.2.2
+  Attempting uninstall: requests
+    Found existing installation: requests 2.28.1
+    Uninstalling requests-2.28.1:
+      Successfully uninstalled requests-2.28.1
+  Attempting uninstall: click
+    Found existing installation: click 7.1.2
+    Uninstalling click-7.1.2:
+      Successfully uninstalled click-7.1.2
+Successfully installed certifi-2025.1.31 charset-normalizer-3.4.1 click-8.1.8 colorama-0.4.6 idna-3.10 numpy-2.2.3 requests-2.31.0 urllib3-2.3.0
